@@ -1,0 +1,4 @@
+test_naive
+benchmark
+*.o
+*.d
