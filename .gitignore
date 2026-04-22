@@ -1,0 +1,9 @@
+test_naive
+benchmark
+*.o
+*.d
+.venv/
+testdata/
+__pycache__/
+test_conv2d
+bench_conv2d
